@@ -1,0 +1,6 @@
+com.annualSalary
+com.annualSalary.bl
+com.annualSalary.controller
+com.annualSalary.dal
+com.annualSalary.dto
+com.annualSalary.exceptions
